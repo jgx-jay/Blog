@@ -1,4 +1,4 @@
-### **背景: 在 iOS9/10 系统中,由于官方原因没办法把同步给 wkwebview cookie, 导致网页内所请求没有携带 cookie**
+### **背景: 在 iOS9/10 系统中,由于官方原因没办法把同步给 wkwebview cookies, 导致网页内所请求没有携带 cookies**
 
 ## **解决方案:**
 
